@@ -1,1 +1,1 @@
-../run.kernel.bash
+../run.kernel.noisy.bash
